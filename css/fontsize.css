@@ -1,7 +1,7 @@
-.x-btn button.GENTICS_button_increase {
+.aloha-button-increase {
   background: url("../img/tb-sprite.gif") repeat scroll -48px 0 transparent !important;
 }
 
-.x-btn button.GENTICS_button_decrease {
+.aloha-button-decrease {
   background: url("../img/tb-sprite.gif") repeat scroll -65px 0 transparent !important;
 }
